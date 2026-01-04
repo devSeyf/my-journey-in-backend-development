@@ -13,10 +13,10 @@ This course is amazing because there are students in the videos, and in every vi
 It is not just a talking course.
 
 **Total duration:**  
-14:52:17
+14:52:17  
 
 **Videos count:**  
-13
+13  
 
 **YouTube playlist:**  
 https://www.youtube.com/playlist?list=PLNFDrRZdysFx0Mc0z6tHHh-0FfZDoGaS7
@@ -28,3 +28,10 @@ https://www.w3schools.com/nodejs/default.asp
 
 Because it is beautiful and also well divided.  
 After each section, there are best practices, and this is amazing.
+
+---
+
+## Practice Questions
+
+I found 53 questions with answers and solved them:  
+https://medium.com/@s.atmaramani/node-js-quick-100-coding-assignments-with-answers-for-interview-practice-8059f3fd9925
