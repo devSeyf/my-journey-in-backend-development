@@ -35,3 +35,9 @@ After each section, there are best practices, and this is amazing.
 
 I found 53 questions with answers and solved them:  
 https://medium.com/@s.atmaramani/node-js-quick-100-coding-assignments-with-answers-for-interview-practice-8059f3fd9925
+
+
+
+### Third Resource  
+
+https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2
